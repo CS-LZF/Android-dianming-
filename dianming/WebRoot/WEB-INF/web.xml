@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+	<description> </description>
+
+
+	<filter>
+		<filter-name>CharacterEncodingFilter</filter-name>
+		<filter-class>com.web.util.CharacterEncodingFilter</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>CharacterEncodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+ 
+ 
+ 
+   <servlet>
+    <description>Get All User</description>
+    <display-name>Users</display-name>
+    <servlet-name>Users</servlet-name>
+    <servlet-class>edu.self.server.Users</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Users</servlet-name>
+    <url-pattern>/Users</url-pattern>
+  </servlet-mapping>
+  
+  
+ 
+  <servlet>
+    <description>Get Resources By Uid</description>
+    <display-name>ResourcesByUid</display-name>
+    <servlet-name>ResourcesByUid</servlet-name>
+    <servlet-class>edu.self.server.ResourcesByUid</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ResourcesByUid</servlet-name>
+    <url-pattern>/ResourcesByUid</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>Update User</description>
+    <display-name>UpdateUser</display-name>
+    <servlet-name>UpdateUser</servlet-name>
+    <servlet-class>edu.self.server.UpdateUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpdateUser</servlet-name>
+    <url-pattern>/UpdateUser</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>Update Resouce</description>
+    <display-name>UpdateResource</display-name>
+    <servlet-name>UpdateResource</servlet-name>
+    <servlet-class>edu.self.server.UpdateResource</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpdateResource</servlet-name>
+    <url-pattern>/UpdateResource</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>add new resource</description>
+    <display-name>NewResource</display-name>
+    <servlet-name>NewResource</servlet-name>
+    <servlet-class>edu.self.server.NewResource</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NewResource</servlet-name>
+    <url-pattern>/NewResource</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>get user by userId</description>
+    <display-name>UserByuserId</display-name>
+    <servlet-name>UserByuserId</servlet-name>
+    <servlet-class>edu.self.server.UserByuserId</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserByuserId</servlet-name>
+    <url-pattern>/UserByuserId</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description>get all resources</description>
+    <display-name>Resources</display-name>
+    <servlet-name>Resources</servlet-name>
+    <servlet-class>edu.self.server.Resources</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Resources</servlet-name>
+    <url-pattern>/Resources</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <description>delete a resource by rid</description>
+    <display-name>DeleteResource</display-name>
+    <servlet-name>DeleteResource</servlet-name>
+    <servlet-class>edu.self.server.DeleteResource</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteResource</servlet-name>
+    <url-pattern>/DeleteResource</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+ 	<servlet>
+		<servlet-name>OrderEditServlet</servlet-name>
+		<servlet-class>com.web.order.OrderEditServlet</servlet-class>
+	</servlet>
+ 
+  
+ 	<servlet>
+		<servlet-name>OrderServlet</servlet-name>
+		<servlet-class>com.web.order.OrderServlet</servlet-class>
+	</servlet>
+	
+	
+ 	
+	
+	<servlet>
+		<servlet-name>DiscussServlet</servlet-name>
+		<servlet-class>com.web.discuss.DiscussMgrServlet</servlet-class>
+	</servlet>
+ 	
+		<servlet>
+		<servlet-name>QingjiaAction</servlet-name>
+		<servlet-class>com.action.QingjiaAction</servlet-class>
+	</servlet>
+	 
+	<servlet-mapping>
+		<servlet-name>QingjiaAction</servlet-name>
+		<url-pattern>/qingjia.do</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>ZuoyeAction</servlet-name>
+		<servlet-class>com.action.ZuoyeAction</servlet-class>
+	</servlet>
+	 
+	<servlet-mapping>
+		<servlet-name>ZuoyeAction</servlet-name>
+		<url-pattern>/zuoye.do</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet-mapping>
+		<servlet-name>DiscussServlet</servlet-name>
+		<url-pattern>/discuss.do</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+	<servlet>
+		<servlet-name>DiscussServlet2</servlet-name>
+		<servlet-class>com.web.discuss2.DiscussMgrServlet2</servlet-class>
+	</servlet>
+ 	
+	<servlet-mapping>
+		<servlet-name>DiscussServlet2</servlet-name>
+		<url-pattern>/discuss2.do</url-pattern>
+	</servlet-mapping>
+	
+	
+
+	<servlet>
+		<servlet-name>FoodMgrServlet</servlet-name>
+		<servlet-class>com.web.info.InfoMgrServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet>
+		<servlet-name>FoodEditServlet</servlet-name>
+		<servlet-class>com.web.info.InfoEditServlet</servlet-class>
+	</servlet>	
+	
+
+	<servlet>
+		<servlet-name>loginServlet</servlet-name>
+		<servlet-class>com.web.LoginServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>LogoutServlet</servlet-name>
+		<servlet-class>com.web.LogoutServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>UpdatePasswordServlet</servlet-name>
+		<servlet-class>com.web.UpdatePasswordServlet</servlet-class>
+	</servlet>
+	 
+	
+	<servlet>
+		<servlet-name>UserServlet</servlet-name>
+		<servlet-class>com.web.user.UserServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>user_tb_Servlet</servlet-name>
+		<servlet-class>com.web.user_tb.UserTbServlet</servlet-class>
+	</servlet>
+ 
+	 
+	<servlet>
+		<servlet-name>TypeMgrServlet</servlet-name>
+		<servlet-class>com.web.type.TypeMgrServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet>
+		<servlet-name>DataServlet</servlet-name>
+		<servlet-class>com.web.data.DataServlet</servlet-class>
+	</servlet>
+	
+	
+ 	<servlet-mapping>
+		<servlet-name>DataServlet</servlet-name>
+		<url-pattern>/data.do</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>TypeMgrServlet</servlet-name>
+		<url-pattern>/type.do</url-pattern>
+	</servlet-mapping>
+	
+	  <servlet-mapping>
+	    <servlet-name>user_tb_Servlet</servlet-name>
+	    <url-pattern>/RegisterAccount</url-pattern>
+	  </servlet-mapping>
+  
+	  <servlet-mapping>
+	    <servlet-name>user_tb_Servlet</servlet-name>
+	    <url-pattern>/Login</url-pattern>
+	  </servlet-mapping>
+	
+	
+	<servlet-mapping>
+		<servlet-name>UserServlet</servlet-name>
+		<url-pattern>/user.do</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>user_tb_Servlet</servlet-name>
+		<url-pattern>/user_tb.do</url-pattern>
+	</servlet-mapping>
+	  
+	  
+	  
+	<servlet-mapping>
+		<servlet-name>loginServlet</servlet-name>
+		<url-pattern>/login.do</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>LogoutServlet</servlet-name>
+		<url-pattern>/logout.do</url-pattern>
+	</servlet-mapping>
+		
+	<servlet-mapping>
+		<servlet-name>UpdatePasswordServlet</servlet-name>
+		<url-pattern>/updatePassword.do</url-pattern>
+	</servlet-mapping>
+
+	
+
+
+	<servlet>
+		<servlet-name>UploadListMgrServlet</servlet-name>
+		<servlet-class>com.web.info3.UploadListMgrServlet</servlet-class>
+	</servlet>	
+ 
+	<servlet-mapping>
+		<servlet-name>UploadListMgrServlet</servlet-name>
+		<url-pattern>/uploadList.do</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet>
+		<servlet-name>UploadMgrServlet</servlet-name>
+		<servlet-class>com.web.info3.UploadMgrServlet</servlet-class>
+	</servlet>	
+ 
+	<servlet-mapping>
+		<servlet-name>UploadMgrServlet</servlet-name>
+		<url-pattern>/upload.do</url-pattern>
+	</servlet-mapping>
+	
+
+	
+ 	
+	
+	
+	<servlet-mapping>
+		<servlet-name>FoodEditServlet</servlet-name>
+		<url-pattern>/foodEdit.do</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>FoodMgrServlet</servlet-name>
+		<url-pattern>/foodList.do</url-pattern>
+	</servlet-mapping>
+	
+	
+	<welcome-file-list>
+		<welcome-file>login.jsp</welcome-file>
+	</welcome-file-list>
+
+</web-app>
