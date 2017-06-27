@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@color/css_a"
+    android:orientation="vertical" >
+
+<!--     <ImageView -->
+<!--         android:id="@+id/food_img" -->
+<!--         android:layout_width="200dp" -->
+<!--         android:layout_height="200dp" -->
+<!--         android:layout_marginLeft="50dp" -->
+<!--         android:layout_marginTop="5dp" -->
+<!--         android:adjustViewBounds="true" -->
+<!--         android:background="@color/white" -->
+<!--         android:clickable="false" -->
+<!--         android:padding="4dp" -->
+<!--         android:src="@drawable/pork" > -->
+<!--     </ImageView> -->
+
+   
+       <EditText
+        android:id="@+id/mingcheng"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textSize="20sp"
+        android:hint="作业名称：" >
+    </EditText>
+    <EditText
+        android:id="@+id/miaoshu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textSize="20sp"
+        android:hint="描        述：" >
+    </EditText>
+    <EditText
+        android:id="@+id/shijian"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textSize="20sp"
+        android:hint="时        间：" >
+    </EditText>
+    <EditText
+        android:id="@+id/kecheng"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textSize="20sp"
+        android:hint="课        程：" >
+    </EditText>
+    
+    
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text=" 保 存 " />
+
+ 
+
+</LinearLayout>
+
+

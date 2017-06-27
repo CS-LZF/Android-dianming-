@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:id="@+id/loginRoot"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/login_back">
+	<ScrollView android:layout_width="fill_parent" android:layout_above="@+id/Linearayout02"
+		android:layout_height="wrap_content" android:layout_marginTop="10dip"
+		android:layout_marginBottom="10dip" android:scrollbars="none"
+		>
+		<RelativeLayout android:id="@+id/RelativeLayout02"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			>
+
+			<EditText android:id="@+id/register_edit_account"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_alignParentTop="true">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView01"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="账        号："
+				android:layout_alignTop="@id/register_edit_account"
+				android:layout_alignBottom="@id/register_edit_account"
+				android:layout_alignRight="@+id/TextView03"
+				android:layout_alignParentLeft="true">
+			</TextView>
+			<EditText android:id="@+id/register_edit_pwd"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="1.0dip"
+				android:maxLength="16" android:layout_below="@+id/register_edit_account"
+				android:layout_alignLeft="@id/register_edit_account"
+				android:layout_alignRight="@id/register_edit_account"
+				android:inputType="textPassword">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView02"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="密        码："
+				android:layout_alignTop="@id/register_edit_pwd"
+				android:layout_alignBottom="@id/register_edit_pwd"
+				android:layout_alignParentLeft="true"
+				android:layout_alignRight="@+id/TextView01">
+			</TextView>
+
+
+
+			<EditText android:id="@+id/register_edit_pwd2"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="1.0dip"
+				android:maxLength="16" android:layout_below="@+id/register_edit_pwd"
+				android:layout_alignLeft="@id/register_edit_account"
+				android:layout_alignRight="@id/register_edit_account"
+				android:inputType="textPassword">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView03"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="确认密码："
+				android:layout_alignTop="@id/register_edit_pwd2"
+				android:layout_alignRight="@id/TextView03"
+				android:layout_alignBottom="@id/register_edit_pwd2">
+			</TextView>
+
+			<EditText android:id="@+id/register_edit_userName"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="1.0dip"
+				android:maxLength="16" android:layout_below="@id/register_edit_pwd2"
+				android:layout_alignLeft="@id/register_edit_account"
+				android:layout_alignRight="@id/register_edit_account">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView04"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="姓        名："
+				android:layout_alignTop="@id/register_edit_userName"
+				android:layout_alignBottom="@id/register_edit_userName"
+				android:layout_alignRight="@+id/TextView03">
+			</TextView>
+
+			<EditText android:id="@+id/register_edit_phone"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="1.0dip"
+				android:maxLength="16" android:layout_below="@id/register_edit_userName"
+				android:layout_alignLeft="@+id/register_edit_account"
+				android:layout_alignRight="@+id/register_edit_account">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView05"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="联系电话："
+				android:layout_alignTop="@id/register_edit_phone"
+				android:layout_alignRight="@id/TextView05"
+				android:layout_alignBottom="@id/register_edit_phone">
+			</TextView>
+
+			<EditText android:id="@+id/register_edit_address"
+				android:background="@drawable/my_edit_login" android:paddingLeft="85.0sp"
+				android:saveEnabled="true" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="1.0dip"
+				android:layout_below="@id/register_edit_phone"
+				android:layout_alignLeft="@+id/register_edit_account"
+				android:layout_alignRight="@+id/register_edit_account">
+			</EditText>
+			<TextView android:textSize="16.0dip" android:textColor="#FF3F3F3F"
+				android:gravity="center_vertical" android:id="@+id/TextView06"
+				android:paddingLeft="7.0sp" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="班        级："
+				android:layout_alignTop="@+id/register_edit_address"
+				android:layout_alignBottom="@+id/register_edit_address"
+				android:layout_alignRight="@+id/TextView05">
+			</TextView>
+
+
+		</RelativeLayout>
+	</ScrollView>
+
+	<RelativeLayout
+	    android:id="@+id/Linearayout02"
+	    android:layout_width="fill_parent"
+	    android:layout_height="44.0dip"
+	    android:layout_alignParentBottom="true"
+	    android:background="@drawable/bottom1"
+	    >
+
+	    <ImageButton
+	        android:id="@+id/register_btn"
+	        android:layout_width="90dip"
+	        android:layout_height="35dip"
+	        android:layout_marginRight="5dip"
+	        android:background="@drawable/register_selected"
+	        android:clickable="true" 
+	        android:layout_centerVertical="true"
+	        android:layout_alignParentRight="true">
+	    </ImageButton>
+	</RelativeLayout>
+
+</RelativeLayout>
+<!--</ScrollView> -->

@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:3:7-23
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:7:2-62
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:7:19-60
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:9:2-77
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:9:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:13:2-92
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:14:2-92
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:14:19-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:15:2-80
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:15:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:16:2-94
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:16:19-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:17:2-89
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:17:19-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:18:2-89
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:18:19-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:19:2-88
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:19:19-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:20:2-82
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:20:19-63
+permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:21:2-84
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:21:14-70
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:22:2-94
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:22:19-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:23:2-94
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:23:19-75
+uses-permission#android.permission.ACCES_MOCK_LOCATION
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:24:2-91
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:24:19-72
+uses-permission#android.permission.ACCESS_GPS
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:25:2-66
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:25:19-63
+application
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:29:5-109:19
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:30:9-46
+activity#edu.self.LoginActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:33:3-38:20
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:33:52-84
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:33:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:36:27-74
+activity#edu.self.RegisterAccountActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:40:9-110
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:40:72-108
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:40:21-68
+activity#com.bb.ui.MainActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:42:3-85
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:42:47-83
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:42:13-44
+activity#com.bb.ui.InfoListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:43:3-88
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:43:50-86
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:43:13-48
+activity#com.bb.ui.KaoqinActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:44:3-86
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:44:48-84
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:44:13-46
+activity#com.bb.ui.KaoqinListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:45:3-90
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:45:52-88
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:45:13-50
+activity#com.bb.ui.ZuoyeListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:46:3-89
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:46:51-87
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:46:13-49
+activity#com.bb.ui.ZuoyeInfoActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:47:3-89
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:47:51-87
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:47:13-49
+activity#com.bb.ui.QingjiaListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:48:3-92
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:48:54-90
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:48:13-51
+activity#com.bb.ui.QingjiaInfoActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:49:3-92
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:49:54-90
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:49:13-51
+activity#com.bb.ui.QingjiaInfoAddActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:50:3-96
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:50:58-94
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:50:13-54
+activity#com.bb.ui.ZuoyeInfoAddActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:51:3-94
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:51:56-92
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:51:13-52
+activity#com.bb.ui.InfoActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:52:3-84
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:52:46-82
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:52:13-44
+activity#com.bb.ui.TypeListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:53:3-88
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:53:50-86
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:53:13-48
+activity#com.bb.ui.NewsListActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:54:3-88
+	android:screenOrientation
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:54:50-86
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:54:13-48
+activity#table.Activity.KcbActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:58:3-61:14
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:60:4-36
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:59:4-45
+activity#table.Activity.editschedule.SetActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:62:3-65:14
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:64:4-36
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:63:4-58
+activity#table.Activity.about.AboutUsActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:66:3-69:14
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:68:4-36
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:67:4-55
+activity#table.Activity.version.VersionActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:70:3-73:14
+	android:label
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:72:4-36
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:71:4-57
+activity#table.Activity.editschedule.RemindActivity
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:74:3-77:14
+	android:theme
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:76:4-47
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:75:4-61
+receiver#table.Activity.service.RemindReceiver
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:78:3-81:14
+	android:process
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:80:4-29
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:79:4-56
+receiver#table.Activity.service.LauncherReceiver
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:82:3-88:14
+	android:process
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:84:4-29
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:83:4-58
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:85:4-87:20
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:86:5-66
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:86:13-64
+service#table.Activity.service.SetQuietService
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:89:3-94:13
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:90:4-57
+intent-filter#zyb.org.service.QUIET_SERVICE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:91:4-93:20
+action#zyb.org.service.QUIET_SERVICE
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:92:5-60
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:92:13-57
+service#com.baidu.location.f
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:98:3-106:19
+	android:enabled
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:100:13-35
+	android:process
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:101:13-38
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:99:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:102:13-105:29
+action#com.baidu.location.service_v2.2
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:103:17-104:26
+	android:name
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:103:25-71
+uses-sdk
+ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:111:5-43
+	android:targetSdkVersion
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AS save project\code\app\src\main\AndroidManifest.xml:111:15-40
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AS save project\code\app\src\main\AndroidManifest.xml

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edit_options1">
+        <item>添加课程信息</item>
+    </string-array>
+    <string-array name="edit_options2">
+        <item>修改课程信息</item>
+        <item>删除课程信息</item>
+    </string-array>
+    <string-array name="set_remind">
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+        <item>40分钟</item>
+        <item>50分钟</item>
+        <item>60分钟</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blubg">#1E90FF</color>
+    <color name="click_yellow">#00FFC700</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="css_a">#006699</color>
+    <color name="css_a_hover">#BC2A4D</color>
+    <color name="default_background_color">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="gray">#FFFFFFFF</color>
+    <color name="green">#FFFFFFFF</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="ist_blue">#2171BD</color>
+    <color name="item_bg_color">#FFFFFFFF</color>
+    <color name="item_color">#FF000000</color>
+    <color name="item_text_color">#FFFFFFFF</color>
+    <color name="light_black">#4F5356</color>
+    <color name="light_blue">#A6B4D1</color>
+    <color name="light_yellow">#F1BD4C</color>
+    <color name="list_back">#E7E7E7</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="search_gray">#9BA5B3</color>
+    <color name="selected_yellow">#00FF8200</color>
+    <color name="share_text">#ff000000</color>
+    <color name="skin_text_color">#FFFFFFFF</color>
+    <color name="splashBG">#FFFFFFFF</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="tabbg">#FFFFFFFF</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="transparent2">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">关于</string>
+    <string name="about_app">软件相关</string>
+    <string name="about_text">安卓课堂点名系统 \n version: 1.0.0</string>
+    <string name="accInputLabel">帐        号：</string>
+    <string name="alter_password">修改密码</string>
+    <string name="app_name">安卓课堂点名系统</string>
+    <string name="auto_login">自动登录</string>
+    <string name="back">返回</string>
+    <string name="cancle">取消</string>
+    <string name="comfirm_exit_title">确认退出</string>
+    <string name="confirm_exit">确定退出程序？</string>
+    <string name="course_address">教室地点：</string>
+    <string name="course_amount">上课节数：</string>
+    <string name="course_name">课程名称：</string>
+    <string name="course_teacher">老师姓名：</string>
+    <string name="course_time">上课时间：</string>
+    <string name="course_week">上课周数：</string>
+    <string name="edit_title">课程信息</string>
+    <string name="eminimize">最小化</string>
+    <string name="exit">返回</string>
+    <string name="exitapp">退出程序</string>
+    <string name="finish">完成</string>
+    <string name="heading">课表信息</string>
+    <string name="help">帮助</string>
+    <string name="help_text">帮助</string>
+    <string name="idropw_error">帐号或密码错误，请注意大小写。</string>
+    <string name="idropw_null">帐号或密码不能为空</string>
+    <string name="inputAccHint">输入帐号</string>
+    <string name="input_course_address">请输入教室地点</string>
+    <string name="input_course_jieshu">总节数不超过4</string>
+    <string name="input_course_name">请输入课程名称</string>
+    <string name="input_course_teacher">请输入老师姓名</string>
+    <string name="input_course_week">总周数或单双周</string>
+    <string name="jieshulimit">1 2 3 4</string>
+    <string name="main_btn_exit">退出</string>
+    <string name="main_btn_open">打开</string>
+    <string name="main_btn_setting">设定</string>
+    <string name="menu_settings">设置</string>
+    <string name="message_set">消息设置</string>
+    <string name="net_setting">网络设置</string>
+    <string name="nolink_login">离线登录</string>
+    <string name="opt_remember">保存密码</string>
+    <string name="phrocn_null">手机号或验证码不能为空</string>
+    <string name="quiet">开启上课自动静音</string>
+    <string name="refresh">刷新</string>
+    <string name="register">注册</string>
+    <string name="register_account">注册帐号</string>
+    <string name="register_error">手机号已注册过</string>
+    <string name="register_success">注册完成，请注意查收手机短信。</string>
+    <string name="remind">开启课前振动提醒</string>
+    <string name="revision">版本支持</string>
+    <string name="set">设置</string>
+    <string name="strPswInputLabel">密        码：</string>
+    <string name="str_back">返回</string>
+    <string name="str_no">否</string>
+    <string name="str_ok">确定</string>
+    <string name="str_yes">是</string>
+    <string name="to">至</string>
+    <string name="us">关于作者</string>
+</resources>

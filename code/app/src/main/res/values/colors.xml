@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="css_a">#006699</color>
+	<color name="css_a_hover">#BC2A4D</color> 
+
+	
+	    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FFFFFFFF</color>
+    <color name="green">#FFFFFFFF</color>
+    <color name="item_bg_color">#FFFFFFFF</color>
+    <color name="item_color">#FF000000</color>
+    <color name="item_text_color">#FFFFFFFF</color>
+    <color name="skin_text_color">#FFFFFFFF</color>
+    <color name="splashBG">#FFFFFFFF</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="tabbg">#FFFFFFFF</color>
+    <color name="blubg">#1E90FF</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent2">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="list_back">#E7E7E7</color>
+    <color name="search_gray">#9BA5B3</color>
+    <!-- 浅黄色字体 -->
+    <color name="light_yellow">#F1BD4C</color>
+    <!-- 浅蓝色 字体 -->
+    <color name="light_blue">#A6B4D1</color>
+    <!-- 浅黑色字体 -->
+    <color name="light_black">#4F5356</color>
+
+    <!-- 列表背景颜色 -->
+    <color name="selected_yellow">#00FF8200</color>
+    <color name="click_yellow">#00FFC700</color>
+    <color name="ist_blue">#2171BD</color>
+
+        
+  <color name="default_background_color">#ff000000</color> 
+	
+</resources>

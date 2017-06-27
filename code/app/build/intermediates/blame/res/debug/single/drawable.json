@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_info_panel_bg.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_info_panel_bg.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_cn2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\android_cn2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\triangle.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\incoming.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_edit_login.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\my_edit_login.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b017.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\b017.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\divider.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_selected.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\title_button_selected.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_1_n.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\icon_1_n.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_off.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_2_n.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\icon_2_n.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ver_bg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\ver_bg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_3_n.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\icon_3_n.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_info_bg_panel_above_right.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_info_bg_panel_above_right.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tag.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\tag.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_pic.gif",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\no_pic.gif"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_middle.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\top_bar_middle.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\loginbg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_left.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_left.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\all2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mailopen.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\mailopen.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\retouxiang.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\retouxiang.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_normal.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\title_button_normal.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\menu_bg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\register2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bar.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_net.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\update_net.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_acct_menu_icon.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\clear_acct_menu_icon.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_back.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\login_back.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_bg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\default_bg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn1.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\login_btn1.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\option_selected.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\option_selected.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_inactive.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_inactive.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_info_bg_panel_below_left.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_info_bg_panel_below_left.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_over.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\input_over.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mailclose.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\mailclose.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_right.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_right.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kop.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\kop.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\x.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharepoint1.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\sharepoint1.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\outgoing.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lordhong.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\lordhong.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reply.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\reply.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_write_selector.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_write_selector.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebar_lightgray_bg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\titlebar_lightgray_bg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharepoint.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\sharepoint.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2_over.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\button2_over.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_over.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\edit_over.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_left_nor.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_left_nor.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_select.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\title_button_select.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bg.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b005.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\b005.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_reload_normal.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\title_reload_normal.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_select.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\more_select.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\net_setting_menu_icon.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\net_setting_menu_icon.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\option_normal.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\option_normal.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_left_nor.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_left_nor.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_right_sel.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_right_sel.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_d.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_selected.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_off_selected.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_info_middle_background2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\food_info_middle_background2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_select.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\refresh_select.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usrinfo_bg_h.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\usrinfo_bg_h.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\login_btn2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_reload_selected.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\title_reload_selected.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_s.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\load.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\normal.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bar.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\tab_bar.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebutton_bg.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\titlebutton_bg.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\nav.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_32.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\message_32.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_right_sel.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_right_sel.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canel.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\canel.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\je_icon.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\je_icon.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg_n.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\home_btn_bg_n.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2_down.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\button2_down.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_btn_check.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\my_btn_check.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_horizontal_timeline.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\divider_horizontal_timeline.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_back.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\top_bar_back.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on_pressed.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_reg_d.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\top_bar_reg_d.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_my_position.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\dot_my_position.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\login.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maintab_toolbar_bg.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_cn.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\android_cn.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b002.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\b002.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_right_nor.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_right_nor.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\option.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\option.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mqqqvpppm.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\mqqqvpppm.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_gradient.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\gray_gradient.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_info_bg_panel_above_left.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_info_bg_panel_above_left.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_right_nor.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_right_nor.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\all.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poi_1.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\poi_1.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usrinfo_bg_m.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\usrinfo_bg_m.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark_small.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bookmark_small.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom1.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bottom1.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_left_sel.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_left_sel.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_info_bg_panel_below_right.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_info_bg_panel_below_right.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on_selected.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pork.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\pork.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_on.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_left_sel.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_left_sel.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bg_button.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_info_middle_background.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\food_info_middle_background.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_sign_back.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\edit_sign_back.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_below_left.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_below_left.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blog_bg_panel_above_right.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\blog_bg_panel_above_right.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_back.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\top_back.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b035.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\b035.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_background.jpg",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\edit_background.jpg"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_pressed.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expand.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\expand.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\button2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_menu_icon.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\exit_menu_icon.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\je_large_logo.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\je_large_logo.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom2.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bottom2.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_h.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\refresh_h.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_input.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\login_input.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\item_bg.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input.9.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\input.9.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_5_n.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\icon_5_n.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_selected.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\register_selected.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_top.png",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\drawable\\bg_top.png"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\baidumapapi_v2_0_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11dbbd09a96232b9dba1b2060ff057f477b19565">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\baidumapapi_v2_0_0_d1080cec6095dbedd97182ed06a86c49d6ce5810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\ASSDK\androidsdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_3c75ff6c7ac5ce9cb15a309d82c6895cf5b95c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_afdffee8563d052def52a90f0a5dd3f8f270b1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\locSDK_4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b405c3054e12d913fa5aafb160c294e642dc673">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\locSDK_4.0_b172fcf0a9f51a3b270a2a2c27a83b3f82fcf17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\baidumapapi_v2_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11dbbd09a96232b9dba1b2060ff057f477b19565">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\baidumapapi_v2_0_0_d1080cec6095dbedd97182ed06a86c49d6ce5810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\locSDK_4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b405c3054e12d913fa5aafb160c294e642dc673">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\locSDK_4.0_b172fcf0a9f51a3b270a2a2c27a83b3f82fcf17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\apache-mime4j-0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_afdffee8563d052def52a90f0a5dd3f8f270b1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\commons-codec.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\commons-codec_38f1869f943a742c5de52e130fd955c044256de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\ASSDK\androidsdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_3c75ff6c7ac5ce9cb15a309d82c6895cf5b95c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\commons-codec_38f1869f943a742c5de52e130fd955c044256de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.6\596daefa34b9ea58eac9677b23325b7e60eae948\gson-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="596daefa34b9ea58eac9677b23325b7e60eae948">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\gson-1.6_29298b8f2bc10aa392c2a5ce87c9dca97d0d3466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\commons-httpclient-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_3491b58fa03823326b18d69a61e782cb2c4f74c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.6\596daefa34b9ea58eac9677b23325b7e60eae948\gson-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="596daefa34b9ea58eac9677b23325b7e60eae948">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\gson-1.6_29298b8f2bc10aa392c2a5ce87c9dca97d0d3466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\httpmime-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ded70b76b604f4b4b499cb15a6f7cd4ce490ba0">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\httpmime-4.0_0f5add2967504e3d32ad33ef1177ce1a1137383b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\commons-httpclient-3.1_3491b58fa03823326b18d69a61e782cb2c4f74c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS save project\code\app\libs\httpmime-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ded70b76b604f4b4b499cb15a6f7cd4ce490ba0">
+        <dex dex="F:\AS save project\code\app\build\intermediates\pre-dexed\debug\httpmime-4.0_0f5add2967504e3d32ad33ef1177ce1a1137383b.jar" />
+    </item>
+
+</items>

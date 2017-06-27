@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:icon="@drawable/clear_acct_menu_icon"
+		android:menuCategory="system" android:title="添加好友"
+		android:id="@+id/add_account">
+	</item>
+	<item android:icon="@drawable/net_setting_menu_icon" android:id="@+id/search_account"
+		android:menuCategory="system" android:title="查找好友">
+	</item>
+</menu>

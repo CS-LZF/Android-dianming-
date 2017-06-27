@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/home_layout" android:orientation="vertical" android:background="@color/list_back"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<LinearLayout android:id="@+id/bottomtoolbar"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:orientation="horizontal" android:background="@drawable/maintab_toolbar_bg"
+			android:layout_alignParentBottom="true">
+			<LinearLayout android:id="@+id/index"
+				android:layout_width="30dip" android:layout_height="50dip"
+				android:orientation="vertical" android:layout_weight="5"
+				android:layout_centerHorizontal="true">
+				<ImageView android:background="@drawable/icon_1_n"
+					android:layout_gravity="top|center" android:layout_width="28dip"
+					android:layout_height="24dip" android:layout_marginTop="5dip" />
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="首页"
+					android:layout_gravity="center" android:textSize="13dip" />
+			</LinearLayout>
+
+			<LinearLayout android:id="@+id/message"
+				android:layout_width="30dip" android:layout_height="50dip"
+				android:orientation="vertical" android:layout_weight="5"
+				android:layout_centerHorizontal="true">
+				<ImageView android:background="@drawable/icon_2_n"
+					android:layout_gravity="top|center" android:layout_width="28dip"
+					android:layout_height="24dip" android:layout_marginTop="5dip" />
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="分类"
+					android:layout_gravity="center" android:textSize="13dip" />
+			</LinearLayout>
+
+			<LinearLayout android:id="@+id/myinfo"
+				android:layout_width="30dip" android:layout_height="50dip"
+				android:layout_weight="5" android:orientation="vertical"
+				android:layout_centerHorizontal="true">
+				<ImageView android:background="@drawable/icon_3_n"
+					android:layout_gravity="top|center" android:layout_width="28dip"
+					android:layout_height="24dip" android:layout_marginTop="5dip" />
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="我的收藏 "
+					android:layout_gravity="center" android:textSize="13dip" />
+			</LinearLayout>
+
+		</LinearLayout>
+
+		<LinearLayout android:id="@+id/body_layout"
+			android:orientation="vertical" android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentLeft="true">
+		</LinearLayout>
+	</RelativeLayout>
+</LinearLayout>

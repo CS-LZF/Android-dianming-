@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="50.0dip"
+        android:layout_height="fill_parent"
+
+        android:gravity="center"
+        android:text="id"
+        android:textColor="#ff004499" />
+
+    <TableLayout
+        android:layout_width="330.0dip"
+        android:layout_height="wrap_content"
+        >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="30dip"
+            >
+
+            <TextView
+                android:id="@+id/ltext0"
+                android:layout_width="180.0dip"
+                android:layout_height="30dip"
+                android:singleLine="true"
+                android:text="if"
+                android:textColor="#000000"
+                android:textSize="20.0sp"
+                />
+
+            <TextView
+                android:id="@+id/ltext1"
+                android:layout_width="150.0dip"
+                android:layout_height="30dip"
+                android:singleLine="true"
+                android:text="if"
+
+                android:textColor="#000000"
+                android:textSize="20.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="30dip" >
+
+            <TextView
+                android:id="@+id/ltext6"
+                android:layout_width="180.0dip"
+                android:layout_height="30dip"
+
+                android:singleLine="true"
+                android:text="if"
+                android:textColor="#000000"
+                android:textSize="20.0sp" />
+
+            <TextView
+                android:id="@+id/ltext7"
+                android:layout_width="150.0dip"
+                android:layout_height="30dip"
+                android:singleLine="true"
+                android:text="if"
+
+                android:textColor="#000000"
+                android:textSize="20.0sp" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

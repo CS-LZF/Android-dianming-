@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_menu.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\menu\\login_menu.xml"
+    },
+    {
+        "merged": "F:\\AS save project\\code\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_menu.xml",
+        "source": "F:\\AS save project\\code\\app\\src\\main\\res\\menu\\home_menu.xml"
+    }
+]

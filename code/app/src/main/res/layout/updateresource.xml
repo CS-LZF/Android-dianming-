@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/list_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout02"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/updateresource_resourceName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="1.0dip"
+            android:paddingLeft="80.0sp"
+            android:background="@drawable/my_edit_login"
+            android:saveEnabled="true" >
+        </EditText>
+
+        <TextView
+            android:id="@+id/TextView07"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/updateresource_resourceName"
+            android:layout_alignRight="@+id/TextView07"
+            android:layout_alignTop="@+id/updateresource_resourceName"
+            android:gravity="center_vertical"
+            android:paddingLeft="7.0sp"
+            android:text="作业名称"
+            android:textColor="#FF3F3F3F"
+            android:textSize="16.0dip" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/updateresource_resourceDescribe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/updateresource_resourceName"
+            android:layout_alignRight="@+id/updateresource_resourceName"
+            android:layout_below="@+id/updateresource_resourceName"
+            android:layout_marginRight="1.0dip"
+            android:background="@drawable/my_edit_login"
+            android:gravity="top"
+            android:lines="4"
+            android:paddingLeft="80.0sp"
+            android:saveEnabled="true" >
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/TextView08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/updateresource_resourceDescribe"
+            android:layout_alignRight="@+id/TextView08"
+            android:layout_alignTop="@+id/updateresource_resourceDescribe"
+            android:gravity="center_vertical"
+            android:paddingLeft="7.0sp"
+            android:text="作业描述"
+            android:textColor="#FF3F3F3F"
+            android:textSize="16.0dip" >
+        </TextView>
+
+
+
+        <ImageView
+            android:id="@+id/updateresource_pic_path"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/updateresource_resourceName"
+            android:layout_alignRight="@+id/updateresource_resourceName"
+            android:layout_below="@+id/updateresource_resourceDescribe"
+            android:layout_marginRight="1.0dip"
+            android:background="@drawable/my_edit_login"
+            android:paddingLeft="80.0sp" >
+        </ImageView> 
+         
+
+        <TextView
+            android:id="@+id/TextView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/updateresource_pic_path"
+            android:layout_alignRight="@+id/TextView13"
+            android:layout_alignTop="@+id/updateresource_pic_path"
+            android:gravity="center_vertical"
+            android:paddingLeft="7.0sp"
+            android:text="文件"
+            android:textColor="#FF3F3F3F"
+            android:textSize="16.0dip" >
+        </TextView>
+        
+        
+    
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/Linearayout02"
+        android:layout_width="fill_parent"
+        android:layout_height="44.0dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom1" >
+
+        <Button
+            android:id="@+id/updaterespirce_btn"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/title_button_select"
+            android:clickable="true"
+            android:text="确定" >
+        </Button>
+    </RelativeLayout>
+
+
+</RelativeLayout>

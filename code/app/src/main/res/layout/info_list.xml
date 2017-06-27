@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/white"
+    >
+    
+        
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+		    
+		 	<ListView android:id="@id/android:list" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:dividerHeight="0px"
+				android:layout_margin="0px" android:cacheColorHint="#00000000"
+				android:focusable="true" android:divider="@drawable/divider_horizontal_timeline"
+				android:fastScrollEnabled="true">
+			</ListView>
+	
+	</RelativeLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bb"
+    android:versionCode="3"
+    android:versionName="1.1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+    <!-- 授予程序访问振动器的权限 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- 授予程序访问系统开机事件的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCES_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+
+    <application
+        android:name="edu.self.MyApplication"
+        android:label="@string/app_name" >
+        <activity
+            android:name="edu.self.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.self.RegisterAccountActivity"
+            android:screenOrientation="portrait" />
+        <!-- <activity   android:name="edu.self.LoginActivity"    android:screenOrientation="portrait"/> -->
+        <activity
+            android:name="com.bb.ui.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.InfoListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.KaoqinActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.KaoqinListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.ZuoyeListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.ZuoyeInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.QingjiaListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.QingjiaInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.QingjiaInfoAddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.ZuoyeInfoAddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.InfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.TypeListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bb.ui.NewsListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="table.Activity.KcbActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="table.Activity.editschedule.SetActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="table.Activity.about.AboutUsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="table.Activity.version.VersionActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="table.Activity.editschedule.RemindActivity"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+
+        <receiver
+            android:name="table.Activity.service.RemindReceiver"
+            android:process=":remote" >
+        </receiver>
+        <receiver
+            android:name="table.Activity.service.LauncherReceiver"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="table.Activity.service.SetQuietService" >
+            <intent-filter>
+                <action android:name="zyb.org.service.QUIET_SERVICE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="com.baidu.location.service_v2.2" >
+                </action>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

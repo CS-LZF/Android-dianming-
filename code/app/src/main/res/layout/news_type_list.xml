@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/white"
+    >
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_top"
+        > 
+        
+		<TextView
+            android:id="@+id/refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="6dp" 
+            android:layout_marginRight="3dp" 
+            android:gravity="center"
+            android:layout_toRightOf="@+id/showName"
+            android:textSize="13sp"
+            android:text="@string/refresh" 
+            android:background="@drawable/bg_button" >
+        </TextView>
+        
+		
+        <TextView
+            android:id="@+id/showName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="18sp" 
+			android:textColor="#FF3F3F3F"
+            android:text="@string/app_name" 
+         >
+        </TextView> 
+       
+		
+    </RelativeLayout>
+    
+        
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+		    
+		 	<ListView android:id="@id/android:list" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:dividerHeight="0px"
+				android:layout_margin="0px" android:cacheColorHint="#00000000"
+				android:focusable="true" android:divider="@drawable/divider_horizontal_timeline"
+				android:fastScrollEnabled="true">
+			</ListView>
+	
+	</RelativeLayout>
+
+</LinearLayout>

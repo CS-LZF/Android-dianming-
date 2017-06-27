@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:icon="@drawable/clear_acct_menu_icon"
+		android:menuCategory="system" android:title="@string/register_account"
+		android:id="@+id/register_account">
+	</item>
+	<item android:icon="@drawable/net_setting_menu_icon" android:id="@+id/net_setting"
+		android:menuCategory="system" android:title="@string/net_setting">
+	</item>
+	<item android:icon="@drawable/update_net" android:id="@+id/update"
+		android:title="检查更新" android:menuCategory="system">
+
+	</item>
+	<item android:icon="@drawable/exit_menu_icon" android:id="@+id/exit"
+		android:menuCategory="system" android:title="@string/exitapp">
+	</item>
+</menu>
